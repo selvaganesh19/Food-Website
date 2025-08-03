@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>TasteBite - Food Delivery</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1 class="logo">TasteBite</h1>
+      <nav>
+        <ul>
+          <li><a href="#menu">Menu</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="hero-text">
+      <h2>Delicious Food Delivered To You</h2>
+      <p>Fresh. Fast. Affordable.</p>
+      <button onclick="scrollToMenu()">Explore Menu</button>
+    </div>
+  </section>
+
+  <section id="menu" class="menu-section">
+    <h2>Our Menu</h2>
+    <div class="menu-cards">
+      <div class="card">
+        <img src="https://source.unsplash.com/400x300/?burger" alt="Burger" />
+        <h3>Classic Burger</h3>
+        <p>Juicy beef patty with crispy lettuce and cheese</p>
+        <span>₹299</span>
+      </div>
+      <div class="card">
+        <img src="https://source.unsplash.com/400x300/?pizza" alt="Pizza" />
+        <h3>Margherita Pizza</h3>
+        <p>Stone-baked with fresh basil and mozzarella</p>
+        <span>₹299</span>
+      </div>
+      <div class="card">
+        <img src="https://source.unsplash.com/400x300/?pasta" alt="Pasta" />
+        <h3>Italian Pasta</h3>
+        <p>Rich creamy Alfredo sauce with penne pasta</p>
+        <span>₹249</span>
+      </div>
+    </div>
+  </section>
+
+  <section id="about" class="about">
+    <h2>About Us</h2>
+    <p>We serve high-quality, hygienic, and tasty food at your doorstep within 30 minutes.</p>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <form>
+      <input type="text" placeholder="Your Name" required/>
+      <input type="email" placeholder="Email" required/>
+      <textarea placeholder="Message"></textarea>
+      <button type="submit">Send</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 TasteBite. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
