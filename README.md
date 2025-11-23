@@ -2,7 +2,6 @@
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/Food-Website.svg?style=social)](https://github.com/selvaganesh19/Food-Website)
-(https://github.com/selvaganesh19/Food-Website)
 
 ## Introduction 🍽️
 
