@@ -52,7 +52,7 @@ Please ensure your code follows the existing style guide and includes appropriat
 
 ## License 📜
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  Feel free to use, modify, and distribute it for both commercial and non-commercial purposes.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute it for both commercial and non-commercial purposes.
 
 ---
 **Built with ❤️ by [selvaganesh19]**
