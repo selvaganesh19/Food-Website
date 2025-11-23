@@ -7,6 +7,7 @@
 
 This is a simple food delivery website built using HTML, CSS, and JavaScript. It provides a basic structure for showcasing food items and potentially integrating with a delivery system. It's a great starting point for learning web development or building a more complex food ordering platform.
 
+
 ## Features ✨
 
 *   **Responsive Design:** Adapts to different screen sizes.
